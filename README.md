@@ -16,5 +16,4 @@ Nacex class can be used to communicate with Nacex webservice and manage expediti
 use dsmatilla\NacexWebservice\Nacex;
 
 $nacex = new Nacex("USER", "PASSWORD")
-print $differ->diff('foo', 'bar');
 ```
