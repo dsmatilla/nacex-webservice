@@ -1,0 +1,23 @@
+{
+    "name": "dsmatilla/nacex-webservice",
+    "description": "Nacex Webservice Controller",
+    "keywords": ["nacex"],
+    "homepage": "https://github.com/dsmatilla/nacex-webservice",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Daniel Matilla",
+            "email": "daniel@esdis.es"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "dsmatilla\NacexWebservice": "src/"
+        }
+    }
+}
